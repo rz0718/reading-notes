@@ -13,3 +13,4 @@
 <p align="center">
 <img src="https://render.githubusercontent.com/render/math?math=\theta \sim N(\theta_0, I_n(\theta_0)^{-1}">
  </p>
+where the precision (inverse variance), <img src="https://render.githubusercontent.com/render/math?math=I_n(\theta_0)">
