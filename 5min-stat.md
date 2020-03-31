@@ -32,3 +32,8 @@ For i.i.d. data the Fisher information In(θ)=nI(θ) and so increases linearly w
 <img src="https://render.githubusercontent.com/render/math?math=\int\theta{p(\theta|x)}d\theta">
   </p>
 
+7. posterior ~ liklihood * prior, or p(q|D) ~ p(D|q)p(q).  For conjugate priors, it means p(q) has the similar form with p(q|D). 
+
+Some examples: 
+* Gamma distribution is the conjugate prior for a Poisson mean.
+* The Beta distribution is the conjugate prior for a binomial proportion
