@@ -18,3 +18,5 @@ where the precision (inverse variance) or Fisher information is defined as
 <img src="https://render.githubusercontent.com/render/math?math=I_n(\theta_0)=E_{\theta_0}[-\frac{d^2}{d\theta^2}l(\theta,X_1,..,X_n)]">
   </p>
 The negative second deriviative measures the curvature of a function or how peaked the likelihood function is. The more peaked the likelihood function, the more information it contains, and the more precise the MLE will be. 
+
+For i.i.d. data the Fisher information In(θ)=nI(θ) and so increases linearly with n (see notes above). Consequently the variance decreases linearly with n and the RMSE decreases with n0.5. Thus, for example, to halve the RMSE we need to multiply sample size by 4.
