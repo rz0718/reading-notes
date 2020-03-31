@@ -22,3 +22,7 @@ where the precision (inverse variance) or Fisher information is defined as
 * the expectation in the definition of In is with respect to the distribution of X1, X2, Xn, p(x1, x2,..,xn|θ)
 
 For i.i.d. data the Fisher information In(θ)=nI(θ) and so increases linearly with n (see notes above). Consequently the variance decreases linearly with n and the RMSE decreases with n0.5. Thus, for example, to halve the RMSE we need to multiply sample size by 4. The I(θ) is the fisher information for a single observation
+
+6. Bayes stat. is trying to solve the posterior probability.  Here, sometimes, you will find the result is the density of a distribution you recongize. While in the majority cases, we can only use computational methods to compute quantities of interest. 
+
+
