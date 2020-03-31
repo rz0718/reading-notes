@@ -14,4 +14,6 @@
 <img src="https://render.githubusercontent.com/render/math?math=\theta \sim N(\theta_0, I_n(\theta_0)^{-1}">
  </p>
 where the precision (inverse variance) or Fisher information is defined as 
-<img src="https://render.githubusercontent.com/render/math?math=I_n(\theta_0)=E_{\theta_0}[-\frac{d^2}{d\theta^2}l(\theta;X_1,\dots, X_n)]">
+<p align="center">
+<img src="https://render.githubusercontent.com/render/math?math=I_n(\theta_0)=E_{\theta_0}[-\frac{d^2}{d\theta^2}l(\theta,X_1,..,X_n)]">
+  </p>
