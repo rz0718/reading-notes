@@ -41,5 +41,5 @@ Some examples:
 8 The posterior distribution on θ1 and θ2 factorizes into independent parts p(θ1|D1) and p(θ2|D2). Here, we say θ1 and θ2 are posteriori independent. 
 
 <p align="center">
-<img src="https://render.githubusercontent.com/render/math?math=p(\theta_1,\theta_2|D_1, D_2) \sim  p(D_1|\theta_1)p(D_2|\theta_2)">
+<img src="https://render.githubusercontent.com/render/math?math=p(\theta_1,\theta_2|D_1, D_2) \sim  p(D_1|\theta_1)p(\theta_1)p(D_2|\theta_2)p(\theta_2)">
   </p>
