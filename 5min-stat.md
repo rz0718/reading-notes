@@ -10,5 +10,4 @@
 4. **Simple hypothesis** vs **Composite hypothesis**:  the hypotheses completetly specify the probability distributions while the composite one does not. For example, one hypothesis is the mean of a normal distribution is one constant and another hypothesis is the mean of the normal distribution is larger than the constant. That will be the simple verse composite.
 
 5. Maximum likelihood estimation is based on independent and identically distributed (i.i.d) data from a model.
-
-<img src="https://render.githubusercontent.com/render/math?math=\theta N(\theta_0, I_n(\theata_0)^{-1}">
+<center><img src="https://render.githubusercontent.com/render/math?math=\theta N(\theta_0, I_n(\theata_0)^{-1}"></center>
