@@ -29,6 +29,6 @@ For i.i.d. data the Fisher information In(θ)=nI(θ) and so increases linearly w
 * Point estimates are typically obtained by computing the mean or median or mode of the posterior distribution. 
 
 <p align="center">
-<img src="https://render.githubusercontent.com/render/math?math=\int\theta">
+<img src="https://render.githubusercontent.com/render/math?math=\int\theta{p(\theta|x)}d\theta">
   </p>
 
