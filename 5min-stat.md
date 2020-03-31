@@ -23,6 +23,12 @@ where the precision (inverse variance) or Fisher information is defined as
 
 For i.i.d. data the Fisher information In(θ)=nI(θ) and so increases linearly with n (see notes above). Consequently the variance decreases linearly with n and the RMSE decreases with n0.5. Thus, for example, to halve the RMSE we need to multiply sample size by 4. The I(θ) is the fisher information for a single observation
 
-6. Bayes stat. is trying to solve the posterior probability.  Here, sometimes, you will find the result is the density of a distribution you recongize. While in the majority cases, we can only use computational methods to compute quantities of interest. 
+6. Bayes stat. is trying to solve the posterior probability.  Here, sometimes, you will find the result is the density of a distribution you recongize. While in the majority cases, we can only use computational methods to compute quantities of interest. Given a posterior distribution,  we can do interval estimates and point estimates. 
 
+* Interval estimates can be obtained by computing quantiles of the posterior distribution.
+* Point estimates are typically obtained by computing the mean or median or mode of the posterior distribution. 
+
+<p align="center">
+<img src="https://render.githubusercontent.com/render/math?math=\int\theta">
+  </p>
 
