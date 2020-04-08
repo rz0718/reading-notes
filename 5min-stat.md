@@ -44,7 +44,13 @@ Some examples:
 <img src="https://render.githubusercontent.com/render/math?math=p(\theta_1,\theta_2|D_1, D_2) \sim  p(D_1|\theta_1)p(\theta_1)p(D_2|\theta_2)p(\theta_2)">
   </p>
 
-9. 
+9.
+
+Expected Loss (Integrated Risk):
+
+<p align="center">
+<img src="https://render.githubusercontent.com/render/math?math=\int">
+  </p>
 
 For squared loss, it will be conditional mean given X: E(Y|X).
 
