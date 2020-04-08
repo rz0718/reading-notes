@@ -55,7 +55,7 @@ Expected Loss (Integrated Risk): after applying the decision rule to a series of
 The optimal decision rule: for each X select the prediction that minimizes the conditional expected loss:
 
 <p align="center">
-<img src="https://render.githubusercontent.com/render/math?math=argmin_a{\int}L(a, Y)p(Y|X)dY">
+<img src="https://render.githubusercontent.com/render/math?math={argmin}_a{\int}L(a, Y)p(Y|X)dY">
   </p>
   
 For squared loss, it will be conditional mean given X: E(Y|X).
