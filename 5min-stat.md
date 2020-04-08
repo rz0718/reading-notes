@@ -49,7 +49,7 @@ Some examples:
 Expected Loss (Integrated Risk):
 
 <p align="center">
-<img src="https://render.githubusercontent.com/render/math?math=\int">
+<img src="https://render.githubusercontent.com/render/math?math=\int\intL(\tilde{Y}(X), Y)p(X,Y)dXdY">
   </p>
 
 For squared loss, it will be conditional mean given X: E(Y|X).
