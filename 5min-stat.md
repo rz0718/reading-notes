@@ -46,12 +46,18 @@ Some examples:
 
 9.
 
-Expected Loss (Integrated Risk):
+Expected Loss (Integrated Risk): after applying the decision rule to a series of (X,Y) pairs coming from some prob. distribution P(X,Y).
 
 <p align="center">
 <img src="https://render.githubusercontent.com/render/math?math={\int}{\int}L(\tilde{Y}(X), Y)p(X,Y)dXdY">
   </p>
 
+The optimal decision rule: for each X select the prediction that minimizes the conditional expected loss:
+
+<p align="center">
+<img src="https://render.githubusercontent.com/render/math?math=argmin_a{\int}L(a, Y)p(Y|X)dY">
+  </p>
+  
 For squared loss, it will be conditional mean given X: E(Y|X).
 
 For absolute loss, it will be the median of the conditional distribution of P(Y|X)
