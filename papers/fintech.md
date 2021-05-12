@@ -4,5 +4,5 @@
 
 
 ## Robo-Advising Less AI and More XAI
-This project is building several basic quant trading models and testing frameworks.
+Robo-advising is more attractive to relatively young households which reflect a combination of their lower wealth as well as increased willingness to trust technology.
 
