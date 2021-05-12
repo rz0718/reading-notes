@@ -1,3 +1,11 @@
-# reading-notes
+# Reading Notes
 
-It will include some notes after reading
+Summarizing what I have read including books, papers and others
+
+## Papers
+
+## Books
+
+## Others
+
+
